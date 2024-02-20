@@ -1,0 +1,42 @@
+.story {
+  font-size: 189px;
+  font-family: "Poppins";
+  color: rgba(39, 61, 70, 0.102);
+  text-transform: uppercase;
+  line-height: 0.011;
+  text-align: center; 
+  top: 125.966px;
+}
+.top-bar {
+  position: absolute;
+  top: 35px;
+  left: 56%;
+  width: 200px;
+  height: 80px;
+  text-align: center;
+}
+.block {
+  -webkit-box-shadow: 0px 40px 38px -8px rgba(156,158,158,0.74);
+  -moz-box-shadow: 0px 40px 38px -8px rgba(156,158,158,0.74);
+  box-shadow: 0px 40px 38px -8px rgba(156,158,158,0.74);
+  background-color: rgb(128, 183, 179);
+  position: absolute;
+  left: -235px;
+  top: -48px;
+  width: 298px;
+  height: 160px;
+}
+.marcy {
+  position: absolute;
+  left: 125px;
+  top: 55px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  -moz-transform: matrix( 4.88331657245851,0,0,4.88331657245851,0,0);
+  -webkit-transform: matrix( 4.88331657245851,0,0,4.88331657245851,0,0);
+  -ms-transform: matrix( 4.88331657245851,0,0,4.88331657245851,0,0);
+}
+
+.nav-menu {
+  display: none;
+}
